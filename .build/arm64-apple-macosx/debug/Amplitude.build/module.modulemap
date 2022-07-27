@@ -1,0 +1,4 @@
+module Amplitude {
+    umbrella header "/Users/envy/Downloads/Amplitude-iOS-main/Sources/Amplitude/Public/Amplitude.h"
+    export *
+}

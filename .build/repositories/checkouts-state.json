@@ -1,0 +1,11 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/amplitude/analytics-connector-ios.git" : {
+        "repositoryURL" : "https://github.com/amplitude/analytics-connector-ios.git",
+        "subpath" : "analytics-connector-ios-280b19df"
+      }
+    }
+  },
+  "version" : 1
+}

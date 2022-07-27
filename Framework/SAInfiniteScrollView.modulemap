@@ -1,0 +1,6 @@
+framework module SAInfiniteScrollView {
+    umbrella header "SAInfiniteScrollViewFramework.h"
+
+    export *
+    module * { export * }
+}

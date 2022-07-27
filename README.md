@@ -1,0 +1,2 @@
+SAInfiniteScrollView Swift Package Manager
+

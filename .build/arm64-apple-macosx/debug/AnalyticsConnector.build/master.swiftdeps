@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1658882254, 256553173]
+build_end_time: [1658882256, 862215995]
+inputs:
+  ? "/Users/envy/Downloads/Amplitude-iOS-main/.build/checkouts/analytics-connector-ios/Sources/AnalyticsConnector/AnalyticsConnector.swift"
+  : [1658882253, 730245590]
+  "/Users/envy/Downloads/Amplitude-iOS-main/.build/checkouts/analytics-connector-ios/Sources/AnalyticsConnector/EventBridge.swift": [1658882253, 730322360]
+  "/Users/envy/Downloads/Amplitude-iOS-main/.build/checkouts/analytics-connector-ios/Sources/AnalyticsConnector/IdentityStore.swift": [1658882253, 730401754]

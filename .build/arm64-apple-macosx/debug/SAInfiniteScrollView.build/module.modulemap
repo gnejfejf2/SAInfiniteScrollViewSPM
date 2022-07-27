@@ -1,0 +1,4 @@
+module SAInfiniteScrollView {
+    umbrella "/Users/envy/Desktop/Amplitude-iOS-main/Sources/Amplitude/Public"
+    export *
+}
