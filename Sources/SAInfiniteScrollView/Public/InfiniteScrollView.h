@@ -5,12 +5,9 @@
 //  Copyright (c) 2015 SealedCompany. All rights reserved.
 //
 
-#if TARGET_OS_WATCH
-#import <WatchKit/WatchKit.h>
-#elif !TARGET_OS_OSX
+#import <Foundation/Foundation.h>
+#if !TARGER_OS_OSX && !TARGET_OS_WATCH
 #import <UIKit/UIKit.h>
-#else
-#import <Cocoa/Cocoa.h>
 #endif
 
 

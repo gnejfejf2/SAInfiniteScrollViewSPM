@@ -6,10 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SAInfiniteScrollView",
     platforms: [
-        .iOS(.v10),
-        .tvOS(.v9),
-        .macOS(.v10_10),
-        .watchOS(.v3),
+        .iOS(.v10)
     ],
     products: [
         .library(name: "SAInfiniteScrollView", targets: ["SAInfiniteScrollView"]),

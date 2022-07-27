@@ -5,13 +5,10 @@
 //  Copyright (c) 2015 SealedCompany. All rights reserved.
 //  Version 1.0.7
 
-#if TARGET_OS_WATCH
-#import <WatchKit/WatchKit.h>
-#elif !TARGET_OS_OSX
+
+#import <Foundation/Foundation.h>
+#if !TARGER_OS_OSX && !TARGET_OS_WATCH
 #import <UIKit/UIKit.h>
-#else
-#import <Cocoa/Cocoa.h>
-#endif
 
 
 @class PowerfulBannerView;
@@ -106,3 +103,4 @@ typedef void(^PowerfulBannerViewLongGestureHandler)(PowerfulBannerView *banner, 
 @property (nonatomic) NSInteger currentPage;
 
 @end
+#endif

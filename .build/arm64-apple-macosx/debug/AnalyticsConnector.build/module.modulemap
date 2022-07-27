@@ -1,4 +1,0 @@
-module AnalyticsConnector {
-    header "/Users/envy/Downloads/Amplitude-iOS-main/.build/arm64-apple-macosx/debug/AnalyticsConnector.build/AnalyticsConnector-Swift.h"
-    requires objc
-}
